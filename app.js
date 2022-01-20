@@ -1,3 +1,5 @@
+console.log('app.js running');
+
 // import functions
 
 // grab DOM elements
